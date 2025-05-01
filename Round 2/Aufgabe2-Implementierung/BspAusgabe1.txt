@@ -1,0 +1,49 @@
+Schicht 0
+{2, 4, 5, 6, 9} : {'Dattel', 'Erdbeere', 'Johannisbeere', 'Himbeere', 'Ingwer'}
+{10, 3, 6} : {'Ingwer', 'Banane', 'Feige'}
+{7} : {'Grapefruit'}
+{1, 2, 4, 8, 9} : {'Dattel', 'Apfel', 'Erdbeere', 'Himbeere', 'Clementine'}
+{2, 4, 5, 8, 10} : {'Apfel', 'Erdbeere', 'Johannisbeere', 'Himbeere', 'Feige'}
+
+Schicht 1
+{10} : {'Feige'}
+{8, 2, 4} : {'Himbeere', 'Apfel', 'Erdbeere'}
+{9, 2, 4} : {'Dattel', 'Himbeere', 'Erdbeere'}
+{2, 4, 5} : {'Himbeere', 'Johannisbeere', 'Erdbeere'}
+{6} : {'Ingwer'}
+
+Schicht 2
+{1} : {'Clementine'}
+{2, 4} : {'Himbeere', 'Erdbeere'}
+{10} : {'Feige'}
+{3} : {'Banane'}
+{8, 2, 4} : {'Himbeere', 'Apfel', 'Erdbeere'}
+{7} : {'Grapefruit'}
+{9, 2, 4} : {'Dattel', 'Himbeere', 'Erdbeere'}
+{2, 4, 5} : {'Himbeere', 'Johannisbeere', 'Erdbeere'}
+{6} : {'Ingwer'}
+
+Schicht 3
+{1} : {'Clementine'}
+{2, 4} : {'Himbeere', 'Erdbeere'}
+{10} : {'Feige'}
+{5} : {'Johannisbeere'}
+{3} : {'Banane'}
+{9} : {'Dattel'}
+{8} : {'Apfel'}
+{7} : {'Grapefruit'}
+{6} : {'Ingwer'}
+
+Schicht 4
+{1} : {'Clementine'}
+{2, 4} : {'Himbeere', 'Erdbeere'}
+{10} : {'Feige'}
+{5} : {'Johannisbeere'}
+{3} : {'Banane'}
+{9} : {'Dattel'}
+{8} : {'Apfel'}
+{7} : {'Grapefruit'}
+{6} : {'Ingwer'}
+
+
+Für die Wunschsorten {'Erdbeere', 'Johannisbeere', 'Himbeere', 'Grapefruit', 'Clementine'}, muss Donald aus den Schüsseln {1, 2, 4, 5, 7} ziehen.

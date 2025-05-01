@@ -1,0 +1,166 @@
+Schicht 0
+{1, 4, 5, 6, 8, 10, 12, 13, 14, 15, 16} : {'Grapefruit', 'Clementine', 'Quitte', 'Dattel', 'Feige', 'Ingwer', 'Orange', 'Pflaume', 'Mango', 'Johannisbeere', 'Erdbeere'}
+{1, 2, 7, 9, 10, 12, 13, 14, 16, 17} : {'Banane', 'Nektarine', 'Dattel', 'Kiwi', 'Feige', 'Orange', 'Pflaume', 'Mango', 'Apfel', 'Erdbeere'}
+{1, 2, 3, 5, 7, 8, 11, 12, 14, 16, 17} : {'Banane', 'Grapefruit', 'Litschi', 'Nektarine', 'Kiwi', 'Himbeere', 'Orange', 'Pflaume', 'Mango', 'Johannisbeere', 'Erdbeere'}
+{1, 2, 4, 6, 7, 11, 12, 16, 17} : {'Banane', 'Quitte', 'Nektarine', 'Kiwi', 'Himbeere', 'Ingwer', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 6, 7, 8, 9, 11, 15, 16} : {'Grapefruit', 'Clementine', 'Nektarine', 'Kiwi', 'Himbeere', 'Ingwer', 'Mango', 'Apfel', 'Erdbeere'}
+{2, 3, 4, 8, 11, 13, 14, 16, 17} : {'Banane', 'Grapefruit', 'Quitte', 'Litschi', 'Kiwi', 'Himbeere', 'Feige', 'Orange', 'Erdbeere'}
+
+Schicht 1
+{2, 3, 8, 11, 14, 16, 17} : {'Banane', 'Grapefruit', 'Litschi', 'Kiwi', 'Himbeere', 'Orange', 'Erdbeere'}
+{8, 16, 2, 11} : {'Grapefruit', 'Kiwi', 'Himbeere', 'Erdbeere'}
+{1, 10, 12, 13, 14, 16} : {'Dattel', 'Feige', 'Orange', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 7, 12, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 7, 9, 16} : {'Nektarine', 'Kiwi', 'Mango', 'Apfel', 'Erdbeere'}
+{2, 13, 14, 16, 17} : {'Banane', 'Kiwi', 'Feige', 'Orange', 'Erdbeere'}
+{1, 2, 7, 8, 11, 16} : {'Grapefruit', 'Nektarine', 'Kiwi', 'Himbeere', 'Mango', 'Erdbeere'}
+{1, 6, 8, 15, 16} : {'Grapefruit', 'Clementine', 'Ingwer', 'Mango', 'Erdbeere'}
+{2, 4, 11, 16, 17} : {'Banane', 'Quitte', 'Kiwi', 'Himbeere', 'Erdbeere'}
+{1, 2, 7, 12, 14, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Orange', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 6, 7, 11, 16} : {'Nektarine', 'Kiwi', 'Himbeere', 'Ingwer', 'Mango', 'Erdbeere'}
+{4, 8, 13, 14, 16} : {'Grapefruit', 'Quitte', 'Orange', 'Feige', 'Erdbeere'}
+{1, 2, 7, 11, 12, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Himbeere', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 4, 6, 12, 16} : {'Quitte', 'Ingwer', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 5, 8, 12, 14, 16} : {'Grapefruit', 'Orange', 'Pflaume', 'Mango', 'Johannisbeere', 'Erdbeere'}
+
+Schicht 2
+{1, 10, 12, 13, 14, 16} : {'Dattel', 'Feige', 'Orange', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 7, 8, 11, 16} : {'Grapefruit', 'Nektarine', 'Kiwi', 'Himbeere', 'Mango', 'Erdbeere'}
+{4, 8, 13, 14, 16} : {'Grapefruit', 'Quitte', 'Orange', 'Feige', 'Erdbeere'}
+{16, 17, 2, 14} : {'Banane', 'Kiwi', 'Orange', 'Erdbeere'}
+{16, 13, 14} : {'Orange', 'Feige', 'Erdbeere'}
+{8, 16, 2, 11} : {'Grapefruit', 'Kiwi', 'Himbeere', 'Erdbeere'}
+{1, 2, 6, 7, 11, 16} : {'Nektarine', 'Kiwi', 'Himbeere', 'Ingwer', 'Mango', 'Erdbeere'}
+{1, 2, 7, 11, 16} : {'Nektarine', 'Kiwi', 'Himbeere', 'Mango', 'Erdbeere'}
+{2, 3, 8, 11, 14, 16, 17} : {'Banane', 'Grapefruit', 'Litschi', 'Kiwi', 'Himbeere', 'Orange', 'Erdbeere'}
+{2, 13, 14, 16, 17} : {'Banane', 'Kiwi', 'Feige', 'Orange', 'Erdbeere'}
+{8, 16, 14} : {'Grapefruit', 'Orange', 'Erdbeere'}
+{1, 2, 7, 11, 12, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Himbeere', 'Pflaume', 'Mango', 'Erdbeere'}
+{16, 1, 12} : {'Mango', 'Erdbeere', 'Pflaume'}
+{1, 4, 6, 12, 16} : {'Quitte', 'Ingwer', 'Pflaume', 'Mango', 'Erdbeere'}
+{16, 1, 2, 7} : {'Nektarine', 'Mango', 'Kiwi', 'Erdbeere'}
+{16, 2, 11} : {'Kiwi', 'Himbeere', 'Erdbeere'}
+{1, 5, 8, 12, 14, 16} : {'Grapefruit', 'Orange', 'Pflaume', 'Mango', 'Johannisbeere', 'Erdbeere'}
+{16, 17, 2} : {'Banane', 'Kiwi', 'Erdbeere'}
+{16, 2} : {'Kiwi', 'Erdbeere'}
+{8, 16} : {'Grapefruit', 'Erdbeere'}
+{1, 2, 7, 12, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Pflaume', 'Mango', 'Erdbeere'}
+{1, 2, 7, 9, 16} : {'Nektarine', 'Kiwi', 'Mango', 'Apfel', 'Erdbeere'}
+{16, 1} : {'Mango', 'Erdbeere'}
+{16, 1, 6} : {'Mango', 'Ingwer', 'Erdbeere'}
+{16, 1, 12, 14} : {'Mango', 'Orange', 'Erdbeere', 'Pflaume'}
+{1, 6, 8, 15, 16} : {'Grapefruit', 'Clementine', 'Ingwer', 'Mango', 'Erdbeere'}
+{2, 4, 11, 16, 17} : {'Banane', 'Quitte', 'Kiwi', 'Himbeere', 'Erdbeere'}
+{1, 2, 7, 12, 14, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Orange', 'Pflaume', 'Mango', 'Erdbeere'}
+{16} : {'Erdbeere'}
+{16, 4} : {'Erdbeere', 'Quitte'}
+{8, 1, 16} : {'Grapefruit', 'Mango', 'Erdbeere'}
+{16, 14} : {'Orange', 'Erdbeere'}
+{16, 17, 2, 11} : {'Banane', 'Kiwi', 'Himbeere', 'Erdbeere'}
+
+Schicht 3
+{5} : {'Johannisbeere'}
+{8, 16, 14} : {'Grapefruit', 'Orange', 'Erdbeere'}
+{16, 1, 12} : {'Mango', 'Pflaume', 'Erdbeere'}
+{16, 1, 12} : {'Mango', 'Erdbeere', 'Pflaume'}
+{15} : {'Clementine'}
+{16, 17, 2, 14} : {'Banane', 'Kiwi', 'Orange', 'Erdbeere'}
+{16, 13, 14} : {'Orange', 'Feige', 'Erdbeere'}
+{16, 1, 2, 7} : {'Nektarine', 'Mango', 'Kiwi', 'Erdbeere'}
+{16, 2, 11} : {'Kiwi', 'Himbeere', 'Erdbeere'}
+{16, 17, 2} : {'Banane', 'Kiwi', 'Erdbeere'}
+{16, 2} : {'Kiwi', 'Erdbeere'}
+{10} : {'Dattel'}
+{8, 16, 2, 11} : {'Grapefruit', 'Kiwi', 'Himbeere', 'Erdbeere'}
+{8, 16} : {'Grapefruit', 'Erdbeere'}
+{16, 1} : {'Mango', 'Erdbeere'}
+{1, 2, 7, 12, 16, 17} : {'Banane', 'Nektarine', 'Kiwi', 'Pflaume', 'Mango', 'Erdbeere'}
+{16, 1, 6} : {'Mango', 'Ingwer', 'Erdbeere'}
+{16, 1, 12, 14} : {'Mango', 'Orange', 'Erdbeere', 'Pflaume'}
+{16} : {'Erdbeere'}
+{16, 4} : {'Erdbeere', 'Quitte'}
+{9} : {'Apfel'}
+{3} : {'Litschi'}
+{8, 1, 16} : {'Grapefruit', 'Mango', 'Erdbeere'}
+{16, 14} : {'Orange', 'Erdbeere'}
+{1, 2, 7, 11, 16} : {'Nektarine', 'Kiwi', 'Himbeere', 'Mango', 'Erdbeere'}
+{16, 17, 2, 11} : {'Banane', 'Kiwi', 'Himbeere', 'Erdbeere'}
+
+Schicht 4
+{5} : {'Johannisbeere'}
+{16, 1, 12} : {'Mango', 'Pflaume', 'Erdbeere'}
+{15} : {'Clementine'}
+{16, 1, 2, 7} : {'Nektarine', 'Mango', 'Kiwi', 'Erdbeere'}
+{16, 2, 11} : {'Kiwi', 'Himbeere', 'Erdbeere'}
+{16, 17, 2} : {'Banane', 'Kiwi', 'Erdbeere'}
+{4} : {'Quitte'}
+{10} : {'Dattel'}
+{16, 2} : {'Kiwi', 'Erdbeere'}
+{13} : {'Feige'}
+{8, 16} : {'Grapefruit', 'Erdbeere'}
+{16, 1} : {'Mango', 'Erdbeere'}
+{6} : {'Ingwer'}
+{16} : {'Erdbeere'}
+{9} : {'Apfel'}
+{3} : {'Litschi'}
+{16, 14} : {'Orange', 'Erdbeere'}
+
+Schicht 5
+{11} : {'Himbeere'}
+{5} : {'Johannisbeere'}
+{15} : {'Clementine'}
+{14} : {'Orange'}
+{7} : {'Nektarine'}
+{17} : {'Banane'}
+{4} : {'Quitte'}
+{13} : {'Feige'}
+{16, 2} : {'Kiwi', 'Erdbeere'}
+{10} : {'Dattel'}
+{8} : {'Grapefruit'}
+{16, 1} : {'Mango', 'Erdbeere'}
+{6} : {'Ingwer'}
+{16} : {'Erdbeere'}
+{9} : {'Apfel'}
+{3} : {'Litschi'}
+{12} : {'Pflaume'}
+
+Schicht 6
+{10} : {'Dattel'}
+{11} : {'Himbeere'}
+{7} : {'Nektarine'}
+{5} : {'Johannisbeere'}
+{8} : {'Grapefruit'}
+{6} : {'Ingwer'}
+{16} : {'Erdbeere'}
+{9} : {'Apfel'}
+{3} : {'Litschi'}
+{1} : {'Mango'}
+{15} : {'Clementine'}
+{14} : {'Orange'}
+{2} : {'Kiwi'}
+{12} : {'Pflaume'}
+{17} : {'Banane'}
+{4} : {'Quitte'}
+{13} : {'Feige'}
+
+Schicht 7
+{11} : {'Himbeere'}
+{5} : {'Johannisbeere'}
+{15} : {'Clementine'}
+{14} : {'Orange'}
+{2} : {'Kiwi'}
+{7} : {'Nektarine'}
+{17} : {'Banane'}
+{4} : {'Quitte'}
+{13} : {'Feige'}
+{10} : {'Dattel'}
+{8} : {'Grapefruit'}
+{6} : {'Ingwer'}
+{16} : {'Erdbeere'}
+{1} : {'Mango'}
+{9} : {'Apfel'}
+{3} : {'Litschi'}
+{12} : {'Pflaume'}
+
+
+Für die Wunschsorten {'Grapefruit', 'Nektarine', 'Kiwi', 'Ingwer', 'Feige', 'Orange', 'Pflaume', 'Apfel'}, muss Donald aus den Schüsseln {2, 6, 7, 8, 9, 12, 13, 14} ziehen.
